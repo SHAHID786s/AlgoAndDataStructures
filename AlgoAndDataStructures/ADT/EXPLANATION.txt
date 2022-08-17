@@ -1,0 +1,6 @@
+﻿
+Abstract Data Type(ADT) is a data type, where only behavior is defined but not implementation.
+Opposite of ADT is Concrete Data Type (CDT), where it contains an implementation of ADT.
+
+Example : So abstract datatypes are we have a nissan gtr which is an implementation and having a class car would be the abstract data type.
+Array, List, Map, Queue, Set, Stack, Table, Tree, and Vector are ADTs.
