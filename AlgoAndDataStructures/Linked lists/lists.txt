@@ -1,0 +1,4 @@
+﻿Not really used as much, unless you are a junior dev.
+They allow you to insert anywhere into the array DYNAMICALLY. The list is not fixed so can grow in size therefore better than array.
+They have a head which is the start of the list and a tail. The end of the list usually contains a null so that we can add to it.
+Each part of the list has a part which is known as a node.
